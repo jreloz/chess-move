@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-stockfish/
+stockfish
 build/
 develop-eggs/
 dist/
